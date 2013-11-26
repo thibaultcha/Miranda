@@ -1,5 +1,9 @@
 # Miranda
 
+:warning: Project moved to [thibaultCha/Equiprose](https://github.com/thibaultCha/Equiprose) !
+
+=========
+
 [![Build Status](https://api.travis-ci.org/thibaultCha/Miranda.png)](https://travis-ci.org/thibaultCha/Miranda) [![Coverage Status](https://coveralls.io/repos/thibaultCha/Miranda/badge.png?branch=master)](https://coveralls.io/r/thibaultCha/Miranda?branch=master)
 
 [Miranda](http://thibaultcha.github.io/Miranda/) is a static website and blog generator built with [Node.js](http://nodejs.org).
